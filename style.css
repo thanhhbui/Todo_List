@@ -1,0 +1,12 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+.picture .hungML {
+    position: relative;
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-top: 10px;
+}
