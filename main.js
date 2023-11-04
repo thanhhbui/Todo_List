@@ -38,10 +38,3 @@ function showData() {
 }
 
 showData();
-
-function one() {
-    for(let i=1; i<=10; i++)
-        console.log(i);
-}
-one();
-console.log(one()); 
